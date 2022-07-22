@@ -44,6 +44,6 @@ app.use(bodyParser.urlencoded({ extended: true }));
 //   });
 // }
 PORT = process.env.PORT || 4000;
-app.listen(PORT, '127.0.0.1', () => {
+app.listen(PORT, () => {
   console.log(`Server is listening on port ${PORT}`);
 });
