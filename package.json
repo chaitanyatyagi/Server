@@ -4,7 +4,7 @@
   "description": "Image Contaning Website which allows you to perform operations on any image like edit imagename, imageurl, imagedescription and deletion of images and addition of images, and some search queries as well.",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Chaitanya Tyagi",
