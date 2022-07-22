@@ -1,0 +1,27 @@
+{
+  "name": "gallery-crud-app",
+  "version": "1.0.0",
+  "description": "Image Contaning Website which allows you to perform operations on any image like edit imagename, imageurl, imagedescription and deletion of images and addition of images, and some search queries as well.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chaitanya Tyagi",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "helmet": "^5.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.14",
+    "nodemon": "^2.0.19",
+    "slugify": "^1.6.5",
+    "util": "^0.12.4",
+    "validator": "^13.7.0"
+  }
+}

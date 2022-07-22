@@ -1,0 +1,247 @@
+[
+  {
+    "imgName": "Brahmastra",
+    "imgURL": "https://qph.cf2.quoracdn.net/main-qimg-728c01716bb2201739ae28edd02c3651-pjlq",
+    "Deity": "Brahma",
+    "usedBy": "Ashwatthama",
+    "imgDescription": "Most powerful astra in the Mahabharata. Only weapon capable of piercing Brahma's armor."
+  },
+  {
+    "imgName": "Trishula",
+    "imgURL": "https://i.pinimg.com/originals/6c/51/13/6c5113f53605db0f721fa7755a6f64f8.jpg",
+    "Deity": "Shiva",
+    "usedBy": "Everyone in war",
+    "imgDescription": "Most powerful weapon according to Shaiva traditions."
+  },
+  {
+    "imgName": "Sudarshana Chakra",
+    "imgURL": "https://m.media-amazon.com/images/I/71kFJ8S3LoL._SY355_.jpg",
+    "Deity": "Vishnu",
+    "usedBy": "Krishna",
+    "imgDescription": "Can only be stopped by Vishnu's command.Used to behead Shishupala."
+  },
+  {
+    "imgName": "Teen Baan",
+    "imgURL": "https://i.pinimg.com/originals/bf/48/86/bf48866026db97f557623b87d06254b2.jpg",
+    "Deity": "Shiva",
+    "usedBy": "Barbarika",
+    "imgDescription": "Three arrows given by Shiva. First arrow marks what is to be destroyed, second marks what is to be saved, and third destroys what is marked to be destroyed."
+  },
+  {
+    "imgName": "Aindrastra",
+    "imgURL": "https://qph.cf2.quoracdn.net/main-qimg-a2ed4d0d85acc04023f8537f529861b9-lq",
+    "Deity": "Indra",
+    "usedBy": "Arjuna",
+    "imgDescription": "Would summon a shower of arrows from the sky, like rain."
+  },
+  {
+    "imgName": "Vasavi Shakti",
+    "imgURL": "https://static.wikia.nocookie.net/typemoon/images/6/68/Karna_spear.png/revision/latest?cb=20121216002634",
+    "Deity": "Indra",
+    "usedBy": "Karna",
+    "imgDescription": "Could be used only once. Used by Karna to kill Ghatotkacha."
+  },
+  {
+    "imgName": "Praswapastra",
+    "imgURL": "https://qph.cf2.quoracdn.net/main-qimg-b9509eec6929fd5290e9f52049cb1b11-lq",
+    "Deity": "Vasus",
+    "usedBy": "Bhishma",
+    "imgDescription": "Causes the afflicted to fall asleep on the battlefield."
+  },
+  {
+    "imgName": "Agneyastra",
+    "imgURL": "https://i.ytimg.com/vi/Q0NlnLU02PA/maxresdefault.jpg",
+    "Deity": "Agni",
+    "usedBy": "Parshuram, Ram, Bhishma, Dronacharya, Karna , Arjuna, Ashwathama, Kripacharya",
+    "imgDescription": "Emitted inextinguishable flames."
+  },
+  {
+    "imgName": "Manavastra",
+    "imgURL": "https://spiderimg.amarujala.com/cdn-cgi/image/width=414,height=233,fit=cover,f=auto/assets/images/2017/02/01/750x506/illegal-arms_1485893065.jpeg",
+    "Deity": "Manu",
+    "usedBy": "Rama",
+    "imgDescription": "Overcomes spiritual protection, can carry the target far away, and can inspire humanity in evil beings."
+  },
+  {
+    "imgName": "Varunapasha",
+    "imgURL": "https://www.hinduscriptures.com/wp-content/uploads/2020/10/Pasha.png",
+    "Deity": "Varuna",
+    "usedBy": "Rama, Indrajit, Arjuna, Karna, Bhishma, Drona",
+    "imgDescription": "Noose which gods were incapable of escaping."
+  },
+  {
+    "imgName": "Bhargavastra",
+    "imgURL": "https://pbs.twimg.com/media/ETnNS0-UwAAqQQl.jpg",
+    "Deity": "Parashurama",
+    "usedBy": "Karna",
+    "imgDescription": "Launches a large quantity of arrows."
+  },
+  {
+    "imgName": "Nagastra",
+    "imgURL": "https://qph.cf2.quoracdn.net/main-qimg-e1f892a929c48d5c1369edaec19e80f5-lq",
+    "Deity": "The Nagas",
+    "usedBy": "Many",
+    "imgDescription": "Arrow which never missed. Took the form of a snake."
+  },
+  {
+    "imgName": "Nagapasha",
+    "imgURL": "https://4.bp.blogspot.com/-6xoSD2bqkk0/WZ9HFAKpxvI/AAAAAAAAAGg/l3ADV0SDFnwhYPpz9uhYhi29ZyTixhSHQCLcBGAs/s1600/Naag%2BArrow.png",
+    "Deity": "The Nagas",
+    "usedBy": "Indrajit, Karna, Arjuna",
+    "imgDescription": "Bound the target in live venomous snakes."
+  },
+  {
+    "imgName": "Garudastra",
+    "imgURL": "https://cdnb.artstation.com/p/assets/images/images/050/077/549/large/prem-thakur-garudastra-5.jpg?1654012101",
+    "Deity": "Garuda",
+    "usedBy": "Rama, Arjuna",
+    "imgDescription": "Used to defend against the Nagastra.[11]"
+  },
+  {
+    "imgName": "Anjalika",
+    "imgURL": "https://qph.cf2.quoracdn.net/main-qimg-2c4753a10aae8808b42a1a81ded44b9d-lq",
+    "Deity": "Indra",
+    "usedBy": "Laxmana, Arjuna",
+    "imgDescription": "Used to kill Indrajith and Karna."
+  },
+  {
+    "imgName": "Vayvyastra",
+    "imgURL": "https://metrosaga.com/wp-content/uploads/2018/05/1-18-e1541229581188.jpg",
+    "Deity": "Vayu",
+    "usedBy": "Ashwatthama, Arjuna, Indrajit, Rama",
+    "imgDescription": "Brings about storms which can lift armies off the ground."
+  },
+  {
+    "imgName": "Suryastra",
+    "imgURL": "https://qph.cf2.quoracdn.net/main-qimg-2c4d60fc8378c26547d372d883d8507d-lq",
+    "Deity": "Surya",
+    "usedBy": "Arjuna",
+    "imgDescription": "Creates bright light which dispels darkness and dries up water."
+  },
+  {
+    "imgName": "Maghavan",
+    "imgURL": "https://aastik.in/wp-content/uploads/2019/01/vajra-of-indra-1024x615.jpg",
+    "Deity": "Indra",
+    "usedBy": "Arjuna",
+    "imgDescription": "Flaming weapon used to create illusions.[12]"
+  },
+  {
+    "imgName": "Vajra",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/c/c4/British_Museum_Tibetan_Bell_and_Vajra_B.jpg",
+    "Deity": "Indra",
+    "usedBy": "Arjuna",
+    "imgDescription": "Target would be struck with bolts of lightning.[13]"
+  },
+  {
+    "imgName": "Mohini",
+    "imgURL": "https://qph.cf2.quoracdn.net/main-qimg-d5d66df2412aea714fe459966658be62-lq",
+    "Deity": "Mohini",
+    "usedBy": "Arjuna",
+    "imgDescription": "Dispels nearby illusions and sorcery,"
+  },
+  {
+    "imgName": "Twashtra",
+    "imgURL": "https://qph.cf2.quoracdn.net/main-qimg-d039c3341e5e72fe24b4d5058ea09aa1",
+    "Deity": "Twashtri",
+    "usedBy": "Arjuna",
+    "imgDescription": "Causes armies to fight among each other.[14]"
+  },
+  {
+    "imgName": "Sammohana/Pramohana",
+    "imgURL": "https://qph.cf2.quoracdn.net/main-qimg-ee2bb613086bb9b37eb16b09e9a99ec3-lq",
+    "Deity": "Gandharvas",
+    "usedBy": "Arjuna, Dhrishtadyumna",
+    "imgDescription": "Causes armies to fall into a trance."
+  },
+  {
+    "imgName": "Parvatastra",
+    "imgURL": "https://qph.cf2.quoracdn.net/main-qimg-1ea6a2419c4f0cf92cfa6ce31c3c06c6.webp",
+    "Deity": "Not Known",
+    "usedBy": "Arjuna",
+    "imgDescription": "Causes a mountain to fall from the sky."
+  },
+  {
+    "imgName": "Narayanastra",
+    "imgURL": "https://qph.cf2.quoracdn.net/main-qimg-6704c1720442e836f10900a90d4a6e63-pjlq",
+    "Deity": "Vishnu",
+    "usedBy": "Drona, Ashwatthama",
+    "imgDescription": "Creates a shower of arrows and discs. Only way to escape is submission to the weapon.[15][16]"
+  },
+  {
+    "imgName": "Vaishnavastra",
+    "imgURL": "https://4.bp.blogspot.com/-Uj8WDecZrTo/XFn7RVrsFGI/AAAAAAAAAxk/Z0jmK9BkDNAHcxGR3UtToC2mL3z660plgCLcBGAs/s1600/Awesome%2BInfographics.jpg",
+    "Deity": "Vishnu",
+    "usedBy": "Bhagadatta, Arjuna, Rama",
+    "imgDescription": "Completely destroys the target.[17][18]"
+  },
+  {
+    "imgName": "Sharanga",
+    "imgURL": "https://arjunathevictor.files.wordpress.com/2017/07/bows.jpg?w=900",
+    "Deity": "Vishnu",
+    "usedBy": "Rama, Krishna",
+    "imgDescription": "Not Known"
+  },
+  {
+    "imgName": "Raudrastra",
+    "imgURL": "https://i.pinimg.com/originals/65/48/35/6548352e6eb461f400c207565adfcc81.jpg",
+    "Deity": "Shiva",
+    "usedBy": "Arjuna",
+    "imgDescription": "Name means furious in Sanskrit."
+  },
+  {
+    "imgName": "Pashupatastra",
+    "imgURL": "https://pbs.twimg.com/media/E22qwdAVUAE2j-8.jpg",
+    "Deity": "Shiva",
+    "usedBy": "Arjuna",
+    "imgDescription": "Used by Shiva to liberate the creatures of earth. Cannot be possessed by ordinary humans."
+  },
+  {
+    "imgName": "Maheshwarastra",
+    "imgURL": "https://images-cdn.bridgemanimages.com/api/1.0/image/600wm.XXX.22555620.7055475/2652343.jpg",
+    "Deity": "Shiva",
+    "usedBy": "Not known",
+    "imgDescription": "Contains the power of Shiva's third eye. Fires a beam which turns the target to ash."
+  },
+  {
+    "imgName": "Gandiva",
+    "imgURL": "https://static.turbosquid.com/Preview/2015/05/09__14_55_39/bow.jpg3e7af32c-b40c-4523-9177-a04f36b3734bLarge.jpg",
+    "Deity": "Brahma",
+    "usedBy": "Prajapati, Indra, Soma, Varuna, Arjuna",
+    "imgDescription": "Decorated with gold and had radiant ends."
+  },
+  {
+    "imgName": "Antardhyana",
+    "imgURL": "https://i0.wp.com/shreeamritsarsword.com/wp-content/uploads/2020/04/Chandrahas-min.jpg?fit=600%2C400&ssl=1",
+    "Deity": "Kubera",
+    "usedBy": "Arjuna",
+    "imgDescription": "Capable of making objects and people disappear."
+  },
+  {
+    "imgName": "Sailastra",
+    "imgURL": "https://2.bp.blogspot.com/-5HcoyV-LN4o/WF5voTiUw5I/AAAAAAAAAmI/NTUTWdeG5EMBxDLepYm9LCzncJRorFn0wCLcB/s1600/main-qimg-163c99da88d2ae7e4471d0353a6f8b51-c.jpg",
+    "Deity": "not known",
+    "usedBy": "Rama, Krishna, Indrajit, Arjuna, Karna.",
+    "imgDescription": "Used to make heavy winds disappear."
+  },
+  {
+    "imgName": "Visoshana",
+    "imgURL": "https://qph.cf2.quoracdn.net/main-qimg-0524ac7adb4d93072107b5ed953fdfa1-lq",
+    "Deity": "Indra",
+    "usedBy": "Arjuna",
+    "imgDescription": "Capable of drying anything.[20]"
+  },
+  {
+    "imgName": "Jyotiksha Astra",
+    "imgURL": "https://wd-image.webdunia.com/image-conversion/process-aws.php?url=https://nonprod-media.webdunia.com/public_html/_media/hi/img/article/2018-06/06/full/1528275413-032.jpg&w=&h=&outtype=webp",
+    "Deity": "Surya",
+    "usedBy": "Arjuna",
+    "imgDescription": "Capable of dispelling darkness."
+  },
+  {
+    "imgName": "Kavasa Kundalam",
+    "imgURL": "https://qph.cf2.quoracdn.net/main-qimg-8fa6536d87c6352a8e88ac8357c59cd3-lq",
+    "Deity": "Surya",
+    "usedBy": "Karna, Indra",
+    "imgDescription": "Made completely of amrit."
+  }
+]
